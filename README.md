@@ -1,1 +1,1 @@
-# odin-recipes
+I should be able to effectively showcase my HTML skills by the end of this project. I will use links, images, and customize text to make a nice beginning website before CSS styling. 
